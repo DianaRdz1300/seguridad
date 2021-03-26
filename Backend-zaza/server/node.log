@@ -1,0 +1,17 @@
+Escuchando por el Puerto <3 3000
+Base de Datos Online <3 
+::1 - - [Thu, 25 Feb 2021 06:26:26 GMT] "OPTIONS /api/login HTTP/1.1" 200 4 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+::1 - - [Thu, 25 Feb 2021 06:26:26 GMT] "POST /api/login HTTP/1.1" 400 69 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+::1 - - [Thu, 25 Feb 2021 06:26:31 GMT] "OPTIONS /api/login HTTP/1.1" 200 4 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+::1 - - [Thu, 25 Feb 2021 06:26:31 GMT] "POST /api/login HTTP/1.1" 400 69 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+::1 - - [Thu, 25 Feb 2021 06:26:34 GMT] "POST /api/login HTTP/1.1" 400 69 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+::1 - - [Thu, 25 Feb 2021 06:35:41 GMT] "GET /api/usuario/verificar/username/chiquitin HTTP/1.1" 200 19 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+::1 - - [Thu, 25 Feb 2021 06:38:31 GMT] "OPTIONS /api/usuario/registrar HTTP/1.1" 200 4 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+::1 - - [Thu, 25 Feb 2021 06:38:31 GMT] "POST /api/usuario/registrar HTTP/1.1" 200 437 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+::1 - - [Thu, 25 Feb 2021 06:39:19 GMT] "OPTIONS /api/login HTTP/1.1" 200 4 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+::1 - - [Thu, 25 Feb 2021 06:39:19 GMT] "POST /api/login HTTP/1.1" 400 69 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+::1 - - [Thu, 25 Feb 2021 06:39:22 GMT] "POST /api/login HTTP/1.1" 400 69 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+::1 - - [Thu, 25 Feb 2021 06:41:16 GMT] "OPTIONS /api/usuario/registrar HTTP/1.1" 200 4 "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+::1 - - [Thu, 25 Feb 2021 06:42:56 GMT] "GET /api/usuario/verificar/username/vanvan HTTP/1.1" - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+::1 - - [Thu, 25 Feb 2021 06:43:16 GMT] "POST /api/usuario/registrar HTTP/1.1" - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
+::1 - - [Thu, 25 Feb 2021 06:43:20 GMT] "POST /api/usuario/registrar HTTP/1.1" - - "http://localhost:4200/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"
