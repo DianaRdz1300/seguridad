@@ -24,6 +24,6 @@
     "node-datetime": "^2.1.2",
     "nodemailer": "^6.4.6",
     "underscore": "^1.10.2",
-    "uniqid": "^5.2.0"
+    "uniqid": "^5.3.0"
   }
 }
