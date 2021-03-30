@@ -23,7 +23,7 @@
     "morgan": "^1.10.0",
     "node-datetime": "^2.1.2",
     "nodemailer": "^6.4.6",
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "uniqid": "^5.2.0"
   }
 }
